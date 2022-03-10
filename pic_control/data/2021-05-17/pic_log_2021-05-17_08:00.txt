@@ -1,0 +1,19 @@
+2021-05-17_08:00:16 data_directory data/2021-05-17/
+2021-05-17_08:00:16 using_prerecorded_data False
+2021-05-17_08:00:16 prerecorded_data_file pic_temp_data_2021-05-07_11:15.csv
+2021-05-17_08:00:16 data_filename pic_temp_data_2021-05-17_08:00.csv
+2021-05-17_08:00:16 predictions_filename pic_predictions_2021-05-17_08:00.csv
+2021-05-17_08:00:16 mode heat
+2021-05-17_08:00:16 desired_temperature 30.0
+2021-05-17_08:00:16 initial_setpoint_guess 29.1
+2021-05-17_08:00:16 prediction_stability_threshold 0.04
+2021-05-17_08:00:16 final_temp_tolerance 0.2
+2021-05-17_08:00:16 min_time_before_predict_start 900.0
+2021-05-17_08:00:16 min_prediction_time 600.0
+2021-05-17_08:00:16 time_constant 4000.0
+2021-05-17_08:00:16 reading_initial_temps
+2021-05-17_08:02:19 changing_setpoint 29.1
+2021-05-17_08:02:19 beginning_mainloop
+2021-05-17_08:02:38 changing_setpoint 27.1
+2021-05-17_08:03:10 changing_setpoint 26.6
+2021-05-17_08:41:09 changing_setpoint 25.6

@@ -1,0 +1,48 @@
+2021-05-13_10:12:56 data_directory data/2021-05-13/
+2021-05-13_10:12:56 using_prerecorded_data False
+2021-05-13_10:12:56 prerecorded_data_file pic_temp_data_2021-05-07_11:15.csv
+2021-05-13_10:12:56 data_filename pic_temp_data_2021-05-13_10:12.csv
+2021-05-13_10:12:56 predictions_filename pic_predictions_2021-05-13_10:12.csv
+2021-05-13_10:12:56 mode heat
+2021-05-13_10:12:56 desired_temperature 70.0
+2021-05-13_10:12:56 prediction_stability_threshold 0.04
+2021-05-13_10:12:56 final_temp_tolerance 0.2
+2021-05-13_10:12:56 min_time_before_predict_start 900.0
+2021-05-13_10:12:56 min_prediction_time 600.0
+2021-05-13_10:12:56 time_constant 4000.0
+2021-05-13_10:12:56 reading_initial_temps
+2021-05-13_10:14:58 changing_setpoint 70.0
+2021-05-13_10:14:58 beginning_mainloop
+2021-05-13_10:15:09 setpoint_change_detected 70.0
+2021-05-13_10:18:23 starting_controller_temp_stability_checking
+2021-05-13_10:30:11 prediction_start_time_set 1620858611.0680163
+2021-05-13_10:40:15 beginning_temp_predictions
+2021-05-13_12:13:04 temperature_prediction_stability_achieved 69.14
+2021-05-13_12:13:04 changing_setpoint 70.9
+2021-05-13_12:13:15 setpoint_change_detected 70.9
+2021-05-13_12:16:28 starting_controller_temp_stability_checking
+2021-05-13_12:28:19 prediction_start_time_set 1620865699.2239742
+2021-05-13_12:38:28 beginning_temp_predictions
+2021-05-13_13:45:43 temperature_prediction_stability_achieved 69.22
+2021-05-13_13:45:43 changing_setpoint 71.7
+2021-05-13_13:45:53 setpoint_change_detected 71.7
+2021-05-13_13:49:07 starting_controller_temp_stability_checking
+2021-05-13_14:00:53 prediction_start_time_set 1620871253.7431056
+2021-05-13_14:10:56 beginning_temp_predictions
+2021-05-13_15:36:27 temperature_prediction_stability_achieved 69.6
+2021-05-13_15:36:27 changing_setpoint 72.1
+2021-05-13_15:36:37 setpoint_change_detected 72.1
+2021-05-13_15:39:52 starting_controller_temp_stability_checking
+2021-05-13_15:51:38 prediction_start_time_set 1620877898.8573422
+2021-05-13_16:01:42 beginning_temp_predictions
+2021-05-13_16:19:57 temperature_prediction_stability_achieved 69.36
+2021-05-13_16:19:57 changing_setpoint 72.7
+2021-05-13_16:20:07 setpoint_change_detected 72.7
+2021-05-13_16:23:21 starting_controller_temp_stability_checking
+2021-05-13_16:35:08 prediction_start_time_set 1620880508.9092681
+2021-05-13_16:45:13 beginning_temp_predictions
+2021-05-13_17:32:28 temperature_prediction_stability_achieved 70.15
+2021-05-13_17:32:28 desired_temp_will_be_reached
+2021-05-13_17:32:28 ending_temp_predictions
+2021-05-13_17:32:40 closed_by_operator
+2021-05-13_17:32:40 exiting_script

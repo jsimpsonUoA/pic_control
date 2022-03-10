@@ -1,0 +1,42 @@
+2021-05-12_18:00:21 data_directory data/2021-05-12/
+2021-05-12_18:00:21 using_prerecorded_data False
+2021-05-12_18:00:21 prerecorded_data_file pic_temp_data_2021-05-07_11:15.csv
+2021-05-12_18:00:21 data_filename pic_temp_data_2021-05-12_18:00.csv
+2021-05-12_18:00:21 predictions_filename pic_predictions_2021-05-12_18:00.csv
+2021-05-12_18:00:21 mode heat
+2021-05-12_18:00:21 desired_temperature 60.0
+2021-05-12_18:00:21 prediction_stability_threshold 0.04
+2021-05-12_18:00:21 final_temp_tolerance 0.2
+2021-05-12_18:00:21 min_time_before_predict_start 900.0
+2021-05-12_18:00:21 min_prediction_time 600.0
+2021-05-12_18:00:21 time_constant 4000.0
+2021-05-12_18:00:21 reading_initial_temps
+2021-05-12_18:02:24 changing_setpoint 60.0
+2021-05-12_18:02:24 beginning_mainloop
+2021-05-12_18:02:34 setpoint_change_detected 60.0
+2021-05-12_18:05:49 starting_controller_temp_stability_checking
+2021-05-12_18:17:36 prediction_start_time_set 1620800256.1450036
+2021-05-12_18:27:40 beginning_temp_predictions
+2021-05-12_20:13:13 temperature_prediction_stability_achieved 59.4
+2021-05-12_20:13:13 changing_setpoint 60.6
+2021-05-12_20:13:24 setpoint_change_detected 60.6
+2021-05-12_20:16:38 starting_controller_temp_stability_checking
+2021-05-12_20:28:25 prediction_start_time_set 1620808105.7714872
+2021-05-12_20:38:30 beginning_temp_predictions
+2021-05-12_21:10:17 temperature_prediction_stability_achieved 58.61
+2021-05-12_21:10:17 changing_setpoint 62.0
+2021-05-12_21:10:27 setpoint_change_detected 62.0
+2021-05-12_21:13:41 starting_controller_temp_stability_checking
+2021-05-12_21:25:29 prediction_start_time_set 1620811529.035359
+2021-05-12_21:35:33 beginning_temp_predictions
+2021-05-12_22:52:35 temperature_prediction_stability_achieved 61.03
+2021-05-12_22:52:35 changing_setpoint 61.0
+2021-05-12_22:52:46 setpoint_change_detected 61.0
+2021-05-12_22:56:01 starting_controller_temp_stability_checking
+2021-05-12_23:07:48 prediction_start_time_set 1620817668.3310552
+2021-05-12_23:17:52 beginning_temp_predictions
+2021-05-12_23:39:14 temperature_prediction_stability_achieved 59.88
+2021-05-12_23:39:14 desired_temp_will_be_reached
+2021-05-12_23:39:14 ending_temp_predictions
+2021-05-13_10:11:25 closed_by_operator
+2021-05-13_10:11:25 exiting_script

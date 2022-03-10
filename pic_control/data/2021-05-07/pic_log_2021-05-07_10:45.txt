@@ -1,0 +1,19 @@
+2021-05-07_10:45:40 using_prerecorded_data False
+2021-05-07_10:45:40 prerecorded_data_file pic_temp_data_2021-05-05_14:10.csv
+2021-05-07_10:45:40 data_filename pic_temp_data_2021-05-07_10:45.csv
+2021-05-07_10:45:40 predictions_filename pic_predictions_2021-05-07_10:45.csv
+2021-05-07_10:45:40 mode heat
+2021-05-07_10:45:40 desired_temperature 80.0
+2021-05-07_10:45:40 prediction_stability_threshold 0.04
+2021-05-07_10:45:40 final_temp_tolerance 0.2
+2021-05-07_10:45:40 min_time_before_predict_start 100.0
+2021-05-07_10:45:40 min_prediction_time 600.0
+2021-05-07_10:45:40 time_constant 4000.0
+2021-05-07_10:45:40 reading_initial_temps
+2021-05-07_10:47:46 changing_setpoint 80.0
+2021-05-07_10:47:47 beginning_mainloop
+2021-05-07_10:47:57 setpoint_change_detected 80.0
+2021-05-07_10:51:14 starting_controller_temp_stability_checking
+2021-05-07_10:51:14 prediction_start_time_set 1620341474.3558314
+2021-05-07_10:58:08 exception_raised local variable 'ir_temp' referenced before assignment
+2021-05-07_10:58:09 exiting_script

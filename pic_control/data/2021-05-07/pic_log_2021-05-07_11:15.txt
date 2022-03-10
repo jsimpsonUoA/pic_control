@@ -1,0 +1,20 @@
+2021-05-07_11:15:56 using_prerecorded_data False
+2021-05-07_11:15:56 prerecorded_data_file pic_temp_data_2021-05-05_14:10.csv
+2021-05-07_11:15:56 data_filename pic_temp_data_2021-05-07_11:15.csv
+2021-05-07_11:15:56 predictions_filename pic_predictions_2021-05-07_11:15.csv
+2021-05-07_11:15:56 mode heat
+2021-05-07_11:15:56 desired_temperature 80.0
+2021-05-07_11:15:56 prediction_stability_threshold 0.04
+2021-05-07_11:15:56 final_temp_tolerance 0.2
+2021-05-07_11:15:56 min_time_before_predict_start 100.0
+2021-05-07_11:15:56 min_prediction_time 600.0
+2021-05-07_11:15:56 time_constant 4000.0
+2021-05-07_11:15:56 reading_initial_temps
+2021-05-07_11:17:59 changing_setpoint 80.0
+2021-05-07_11:17:59 beginning_mainloop
+2021-05-07_11:18:09 setpoint_change_detected 80.0
+2021-05-07_11:21:24 starting_controller_temp_stability_checking
+2021-05-07_11:21:24 prediction_start_time_set 1620343283.9961548
+2021-05-07_11:31:28 beginning_temp_predictions
+2021-05-07_11:31:28 exception_raised `ydata` must not be empty!
+2021-05-07_11:31:29 exiting_script

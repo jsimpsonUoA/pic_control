@@ -1,0 +1,43 @@
+2021-05-07_11:50:00 using_prerecorded_data False
+2021-05-07_11:50:00 prerecorded_data_file pic_temp_data_2021-05-07_11:15.csv
+2021-05-07_11:50:00 data_filename pic_temp_data_2021-05-07_11:50.csv
+2021-05-07_11:50:00 predictions_filename pic_predictions_2021-05-07_11:50.csv
+2021-05-07_11:50:00 mode heat
+2021-05-07_11:50:00 desired_temperature 80.0
+2021-05-07_11:50:00 prediction_stability_threshold 0.04
+2021-05-07_11:50:00 final_temp_tolerance 0.2
+2021-05-07_11:50:00 min_time_before_predict_start 100.0
+2021-05-07_11:50:00 min_prediction_time 600.0
+2021-05-07_11:50:00 time_constant 4000.0
+2021-05-07_11:50:00 reading_initial_temps
+2021-05-07_11:52:03 changing_setpoint 80.0
+2021-05-07_11:52:03 beginning_mainloop
+2021-05-07_11:52:14 setpoint_change_detected 80.0
+2021-05-07_11:55:28 starting_controller_temp_stability_checking
+2021-05-07_11:55:28 prediction_start_time_set 1620345328.8798182
+2021-05-07_12:05:33 beginning_temp_predictions
+2021-05-07_12:22:59 temperature_prediction_stability_achieved 76.29
+2021-05-07_12:22:59 changing_setpoint 83.7
+2021-05-07_12:23:09 setpoint_change_detected 83.7
+2021-05-07_12:26:24 starting_controller_temp_stability_checking
+2021-05-07_12:26:24 prediction_start_time_set 1620347184.2329693
+2021-05-07_12:36:29 beginning_temp_predictions
+2021-05-07_13:40:01 temperature_prediction_stability_achieved 81.55
+2021-05-07_13:40:01 changing_setpoint 82.1
+2021-05-07_13:40:12 setpoint_change_detected 82.1
+2021-05-07_13:43:27 starting_controller_temp_stability_checking
+2021-05-07_13:43:58 prediction_start_time_set 1620351838.0547764
+2021-05-07_13:54:02 beginning_temp_predictions
+2021-05-07_13:58:29 temperature_prediction_stability_achieved 79.28
+2021-05-07_13:58:29 changing_setpoint 82.8
+2021-05-07_13:58:39 setpoint_change_detected 82.8
+2021-05-07_14:01:54 starting_controller_temp_stability_checking
+2021-05-07_14:01:54 prediction_start_time_set 1620352914.3596525
+2021-05-07_14:11:59 beginning_temp_predictions
+2021-05-07_15:04:05 temperature_prediction_stability_achieved 79.7
+2021-05-07_15:04:05 changing_setpoint 83.1
+2021-05-07_15:04:16 setpoint_change_detected 83.1
+2021-05-07_15:07:30 starting_controller_temp_stability_checking
+2021-05-07_15:07:30 prediction_start_time_set 1620356850.4066133
+2021-05-07_15:17:35 beginning_temp_predictions
+2021-05-07_15:56:32 exiting_script

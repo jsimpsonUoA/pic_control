@@ -1,0 +1,50 @@
+2021-05-03_14:27:55 data_filename pic_temp_data_2021-05-03_14:27.csv
+2021-05-03_14:27:55 predictions_filename pic_predictions_2021-05-03_14:27.csv
+2021-05-03_14:27:55 mode heat
+2021-05-03_14:27:55 desired_temperature 60.0
+2021-05-03_14:27:55 prediction_stability_threshold 0.04
+2021-05-03_14:27:55 final_temp_tolerance 0.2
+2021-05-03_14:27:55 min_time_before_predict_start 900.0
+2021-05-03_14:27:55 min_prediction_time 600.0
+2021-05-03_14:27:55 reading_initial_temps
+2021-05-03_14:29:57 changing_setpoint 60.0
+2021-05-03_14:29:58 beginning_mainloop
+2021-05-03_14:30:08 setpoint_change 60.0
+2021-05-03_14:33:23 starting_controller_temp_stability_checking
+2021-05-03_14:49:05 prediction_start_time_set 1620010145.8108356
+2021-05-03_14:59:10 beginning_temp_predictions
+2021-05-03_15:11:28 temperature_prediction_stability_achieved 60.26
+2021-05-03_15:11:28 changing_setpoint 59.7
+2021-05-03_15:11:38 setpoint_change 59.7
+2021-05-03_15:14:53 starting_controller_temp_stability_checking
+2021-05-03_15:26:40 prediction_start_time_set 1620012400.509046
+2021-05-03_15:36:45 beginning_temp_predictions
+2021-05-03_16:06:28 temperature_prediction_stability_achieved 54.83
+2021-05-03_16:06:28 changing_setpoint 64.9
+2021-05-03_16:07:29 temperature_prediction_stability_achieved 54.86
+2021-05-03_16:07:29 changing_setpoint 64.8
+2021-05-03_16:08:30 temperature_prediction_stability_achieved 54.88
+2021-05-03_16:08:30 changing_setpoint 64.8
+2021-05-03_16:09:32 temperature_prediction_stability_achieved 54.9
+2021-05-03_16:09:32 changing_setpoint 64.8
+2021-05-03_16:10:33 temperature_prediction_stability_achieved 54.92
+2021-05-03_16:10:33 changing_setpoint 64.8
+2021-05-03_16:11:35 temperature_prediction_stability_achieved 54.95
+2021-05-03_16:11:35 changing_setpoint 64.8
+2021-05-03_16:12:37 temperature_prediction_stability_achieved 54.97
+2021-05-03_16:12:37 changing_setpoint 64.7
+2021-05-03_16:13:38 temperature_prediction_stability_achieved 54.99
+2021-05-03_16:13:38 changing_setpoint 64.7
+2021-05-03_16:14:40 temperature_prediction_stability_achieved 55.01
+2021-05-03_16:14:40 changing_setpoint 64.7
+2021-05-03_16:15:41 temperature_prediction_stability_achieved 55.03
+2021-05-03_16:15:41 changing_setpoint 64.7
+2021-05-03_16:16:43 temperature_prediction_stability_achieved 55.05
+2021-05-03_16:16:43 changing_setpoint 64.6
+2021-05-03_16:17:44 temperature_prediction_stability_achieved 55.08
+2021-05-03_16:17:44 changing_setpoint 64.6
+2021-05-03_16:18:45 temperature_prediction_stability_achieved 55.1
+2021-05-03_16:18:45 changing_setpoint 64.6
+2021-05-03_16:19:47 temperature_prediction_stability_achieved 55.12
+2021-05-03_16:19:47 changing_setpoint 64.6
+2021-05-03_17:01:12 exiting_script

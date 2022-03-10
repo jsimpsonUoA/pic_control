@@ -1,0 +1,37 @@
+2021-05-14_10:57:57 data_directory data/2021-05-14/
+2021-05-14_10:57:57 using_prerecorded_data False
+2021-05-14_10:57:57 prerecorded_data_file pic_temp_data_2021-05-07_11:15.csv
+2021-05-14_10:57:57 data_filename pic_temp_data_2021-05-14_10:57.csv
+2021-05-14_10:57:57 predictions_filename pic_predictions_2021-05-14_10:57.csv
+2021-05-14_10:57:57 mode heat
+2021-05-14_10:57:57 desired_temperature 90.0
+2021-05-14_10:57:57 initial_setpoint_guess 92.9
+2021-05-14_10:57:57 prediction_stability_threshold 0.04
+2021-05-14_10:57:57 final_temp_tolerance 0.2
+2021-05-14_10:57:57 min_time_before_predict_start 900.0
+2021-05-14_10:57:57 min_prediction_time 600.0
+2021-05-14_10:57:57 time_constant 4000.0
+2021-05-14_10:57:57 reading_initial_temps
+2021-05-14_10:59:59 changing_setpoint 92.9
+2021-05-14_10:59:59 beginning_mainloop
+2021-05-14_11:00:10 setpoint_change_detected 92.9
+2021-05-14_11:03:24 starting_controller_temp_stability_checking
+2021-05-14_11:15:11 prediction_start_time_set 1620947711.6524532
+2021-05-14_11:25:16 beginning_temp_predictions
+2021-05-14_12:08:13 temperature_prediction_stability_achieved 88.79
+2021-05-14_12:08:13 changing_setpoint 94.1
+2021-05-14_12:08:23 setpoint_change_detected 94.1
+2021-05-14_12:11:36 starting_controller_temp_stability_checking
+2021-05-14_12:23:28 prediction_start_time_set 1620951808.1669824
+2021-05-14_12:33:38 beginning_temp_predictions
+2021-05-14_13:34:54 temperature_prediction_stability_achieved 90.37
+2021-05-14_13:34:54 changing_setpoint 93.7
+2021-05-14_13:35:04 setpoint_change_detected 93.7
+2021-05-14_13:38:18 starting_controller_temp_stability_checking
+2021-05-14_13:50:05 prediction_start_time_set 1620957005.3749666
+2021-05-14_14:00:09 beginning_temp_predictions
+2021-05-14_15:00:44 temperature_prediction_stability_achieved 90.13
+2021-05-14_15:00:44 desired_temp_will_be_reached
+2021-05-14_15:00:44 ending_temp_predictions
+2021-05-14_15:45:00 closed_by_operator
+2021-05-14_15:45:00 exiting_script
